@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thegram/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/thegram/static/js/main.de889ef5.chunk.js",
+    "main.js.map": "/thegram/static/js/main.de889ef5.chunk.js.map",
+    "runtime-main.js": "/thegram/static/js/runtime-main.940b16a5.js",
+    "runtime-main.js.map": "/thegram/static/js/runtime-main.940b16a5.js.map",
+    "static/js/2.0b660342.chunk.js": "/thegram/static/js/2.0b660342.chunk.js",
+    "static/js/2.0b660342.chunk.js.map": "/thegram/static/js/2.0b660342.chunk.js.map",
+    "index.html": "/thegram/index.html",
+    "precache-manifest.cf1d75de3cd54679d2b97a46a3efe28c.js": "/thegram/precache-manifest.cf1d75de3cd54679d2b97a46a3efe28c.js",
+    "service-worker.js": "/thegram/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/thegram/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.0b660342.chunk.js.LICENSE.txt": "/thegram/static/js/2.0b660342.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.940b16a5.js",
+    "static/js/2.0b660342.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.de889ef5.chunk.js"
+  ]
+}
